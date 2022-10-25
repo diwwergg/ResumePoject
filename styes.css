@@ -1,0 +1,35 @@
+/* clear body */
+body {
+    background-color: #bebebe ;
+    color: #000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0;
+    padding: 0;
+}
+
+/* hr is white color and line styes */
+hr {
+    border: 0;
+    border-top: 3px solid #fff;
+    clear: both;
+    width: 100%;
+    margin: .5rem 0;
+}
+
+/* clear a herf */
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.container-view {
+    text-align: center;
+    background-color: #dddddd;
+    padding: 10px;
+    position: relative;
+    margin: 0 auto;
+    top: 0px;
+    max-width: 1000px;
+  }
