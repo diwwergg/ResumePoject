@@ -32,4 +32,5 @@ a {
     margin: 0 auto;
     top: 0px;
     max-width: 1000px;
+    height: 100vh;
   }
